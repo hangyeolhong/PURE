@@ -1,5 +1,9 @@
 # PURE: Positive-Unlabeled Recommendation with Generative Adversarial Network 
 
+## Paper
+KDD 2021
+https://drive.google.com/file/d/1eCyIAlrcVZcUK5jFaJ2UGWaePyc8i6Eu/view
+
 ## Requirements
 Python 3.6
 Numpy 1.16.4
