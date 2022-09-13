@@ -1,7 +1,8 @@
 # PURE: Positive-Unlabeled Recommendation with Generative Adversarial Network 
 
 ## Paper
-KDD 2021
+KDD 2021, **this is not official repository**
+
 https://drive.google.com/file/d/1eCyIAlrcVZcUK5jFaJ2UGWaePyc8i6Eu/view
 
 ## Requirements
@@ -14,6 +15,6 @@ please run
 python PURE.py
 
 ## Details
-dataset: performs data preprocessing
-evaluate: conducts evluations using all metrics
-PURE: the main function with model definition and model training
+- dataset.py: performs data preprocessing
+- evaluate.py: conducts evluations using all metrics
+- PURE.pyE: the main function with model definition and model training
