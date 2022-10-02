@@ -1,5 +1,3 @@
-# PURE: Positive-Unlabeled Recommendation with Generative Adversarial Network 
-
 ## Paper
 **this is ***not official*** repository, it's for personal research.**
 
